@@ -1,0 +1,13 @@
+{
+  "name": "PlaywrightOnlineShopBuy",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/SreprnySurfur/PlaywrightOnlineShopBuy.git",
+  "license": "MIT",
+  "devDependencies": {
+    "@playwright/test": "^1.45.0",
+    "@types/node": "^20.14.9",
+    "prettier": "3.3.2"
+  },
+  "scripts": {}
+}
